@@ -1,2 +1,3 @@
 # Java-IterativeAStar
-An Iterative Deepening "A Star" search.
+
+This was the third project for ICS340 (Algorithms and Data Structures), an iterative deepening A* search. In this, we were provided the graph, goal and heuristic files but needed to construct the application to find the lowest cost path. 
